@@ -83,9 +83,9 @@ let guid = info[0].replaceAll('https://api.cntv.cn/lanmu/', '');
             type_name: info[2],
             vod_year: info[2],
             vod_area: info[1],
-            vod_remarks: 'ƪ(˘⌣˘)ʃ拾光',
-            vod_director: 'ƪ(˘⌣˘)ʃ拾光',
-            vod_actor: 'ƪ(˘⌣˘)ʃ拾光',
+            vod_remarks: '🍊小橙子',
+            vod_director: '🍊小橙子',
+            vod_actor: '🍊小橙子',
             vod_content: info[7],
         vod_play_from: '央视频',
         //https://hls.cntv.myalicdn.com//asp/hls/2000/0303000a/3/default/https://api.cntv.cn/lanmu/1a01871d6d5f4d4bbe82b9c62650f100/2000.m3u8
